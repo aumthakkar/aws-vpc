@@ -17,7 +17,7 @@ variable "open" {
   default = "0.0.0.0/0"
 }
 variable "my-pc-cidr" {
-  default = "92.2.114.69/32"
+  default = "2.103.8.166/32"
 }
 variable "instance-type" {
   default = "t2.micro"
